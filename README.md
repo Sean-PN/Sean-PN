@@ -3,17 +3,17 @@
 My name is Sean, and I'm a University of Galway graduate (BA in IT + Law, LLB) interested in building a future in cybersecurity / tech through refining language skills and making projects!
 
 🔭 I’m currently working on:
-   Building Python Projects!
+-   Building Python Projects!
    
 🌱 I’m currently revising:
-   Pandas and Data Analysis
+-   Pandas and Data Analysis
 
 🎓 Education:
-   BA in IT + Law '22
-   LLB (Bachelors of Laws) '24
+-   BA in IT + Law '22
+-   LLB (Bachelors of Laws) '24
 
 📫 How to reach me:
-   Sean-niland@outlook.com
+-   Sean-niland@outlook.com
 
 - 
 <!--
