@@ -15,7 +15,7 @@ My name is Sean, and I'm a University of Galway graduate (BA in IT + Law, LLB) i
 📫 How to reach me:
 -   Sean-niland@outlook.com
 
-- 
+ 
 <!--
 **Sean-PN/Sean-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
